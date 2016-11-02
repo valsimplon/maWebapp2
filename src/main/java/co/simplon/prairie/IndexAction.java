@@ -23,6 +23,8 @@ public class IndexAction {
 
     @Out
     String equipe;
+    
+    @Out
     String ville;
 
     @Action("/")
